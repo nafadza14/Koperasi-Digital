@@ -1,0 +1,8 @@
+{
+  "name": "Koperasi Desa Digital",
+  "description": "Platform terintegrasi Koperasi Desa untuk marketplace, simpan pinjam, PPOB, dan manajemen pergudangan dengan akses multi-level.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
